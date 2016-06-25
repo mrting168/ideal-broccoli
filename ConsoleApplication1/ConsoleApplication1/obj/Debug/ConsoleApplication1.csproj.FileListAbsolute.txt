@@ -1,0 +1,17 @@
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RestSharp.dll
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Api.dll
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Mvc.dll
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Twiml.dll
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RestSharp.xml
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Api.pdb
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Api.xml
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Mvc.pdb
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Mvc.xml
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Twiml.pdb
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Twilio.Twiml.xml
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\mrtin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
